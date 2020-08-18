@@ -8,8 +8,8 @@ Pre-installation
 
 Installation:
 
-1 git clone https://github.com/mumu2qua/sputnik-browser-pkgbuild.git
+1. git clone https://github.com/mumu2qua/sputnik-browser-pkgbuild.git
 
-2 cd sputnik-browser-pkgbuild
+2. cd sputnik-browser-pkgbuild
 
-3 makepkg -si
+3. makepkg -si
