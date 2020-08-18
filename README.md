@@ -1,7 +1,7 @@
 # sputnik-browser-pkgbuild
 PKGBUILD file for that one Russian browser filled with ads and spyware
 
-Pre-installation
+Pre-installation:
 
 1. On archlinux you have to build gconf from AUR since it is not in main repositories anymore.
 
